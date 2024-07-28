@@ -4,3 +4,23 @@
 # description: My description
 
 remote_theme    : "manid2/lone-wolf-theme"
+
+# site settings, follows the order used in jekyll-seo-tag plugin
+lang: "en_GB"
+title: "Potbank Software"
+description: "An indie game dev in the Potteries."
+url: "https://potbanksoftware.github.io"
+baseurl: "" # the subpath of your site, e.g. "/blog"
+# author: 
+logo: assets/images/logo512.png # PNG is SEO friendly
+# use below when there are social links for site
+social:
+ name: potbanksoftware
+ links:
+   - https://www.instagram.com/potbanksoftware/
+   - https://github.com/potbanksoftware
+   - https://potbanksoftware.itch.io/
+
+# site verifications,
+# webmaster_verifications:
+#   google: # 1234
