@@ -11,7 +11,7 @@ title: "Potbank Software"
 description: "An indie game dev in the Potteries."
 url: "https://potbanksoftware.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-# author: 
+# author:
 logo: assets/images/logo512.png # PNG is SEO friendly
 # use below when there are social links for site
 social:

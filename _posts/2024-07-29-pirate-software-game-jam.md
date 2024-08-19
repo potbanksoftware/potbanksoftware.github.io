@@ -50,6 +50,3 @@ You can play the finished game over at [itch.io](https://potbanksoftware.itch.io
 
 
 <iframe frameborder="0" src="https://itch.io/embed/2860709" width="552" height="167"><a href="https://potbanksoftware.itch.io/cabal-chemist">Cabal Chemist by potbanksoftware</a></iframe>
-
-
-

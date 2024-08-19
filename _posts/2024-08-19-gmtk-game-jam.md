@@ -26,9 +26,9 @@ The squirrel can climb trees but can't jump as high. The bear became a deer, whi
 "Size Matters" was developed in Godot 4 . I've been using Godot for about 2 months now.
 
 I decided to use the new Godot 4.3 release, which came out just before the jam.
-However, I've found it much less stable than 4.2, with frequent segmentation faults. 
+However, I've found it much less stable than 4.2, with frequent segmentation faults.
 Hopefully things improve in a patch.
-A key change to the engine is the addition of TileMapLayer nodes to replace the old TileMap. 
+A key change to the engine is the addition of TileMapLayer nodes to replace the old TileMap.
 I wanted to try this out as I may migrate my other game over.
 I'm not yet convinced there's great improvement over TileMap.
 
@@ -44,4 +44,3 @@ You can play the finished game over at [itch.io](https://potbanksoftware.itch.io
 
 
 <iframe frameborder="0" src="https://itch.io/embed/2907555" width="552" height="167"><a href="https://potbanksoftware.itch.io/size-matters">Size Matters by potbanksoftware</a></iframe>
-
