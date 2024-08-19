@@ -17,3 +17,15 @@ They've tasked you, a washed-up chemist, to design these drinks. Choose your ing
 
 <iframe frameborder="0" src="https://itch.io/embed/2860709" width="552" height="167"><a href="https://potbanksoftware.itch.io/cabal-chemist">Cabal Chemist by potbanksoftware</a></iframe>
 
+
+## Size Matters [<i class="fa-brands fa-itch-io"></i>](https://potbanksoftware.itch.io/size-matters)
+
+### An Animal Adventure
+
+<img src="/assets/images/gmtk-game-jam-2024-images/key-art-800x600.png" width=400 height=300 alt="Screenshot of the game Size Matters">
+
+A puzzle platformer where animals work together to reach the exit.
+
+[Game Maker's Toolkit Game Jam 2024](https://itch.io/jam/gmtk-2024) Entry. The theme was "Built to Scale".
+
+<iframe frameborder="0" src="https://itch.io/embed/2907555" width="552" height="167"><a href="https://potbanksoftware.itch.io/size-matters">Size Matters by potbanksoftware</a></iframe>
