@@ -23,7 +23,7 @@ But wait! There's another doll inside. You're not out of the fight yet.
 You're on the back foot though as each doll is progressively smaller.
 
  <figure>
-<img width="512" alt="DGJ 4705 - Russian Matryoshka (4312413546)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DGJ_4705_-_Russian_Matryoshka_%284312413546%29.jpg/512px-DGJ_4705_-_Russian_Matryoshka_%284312413546%29.jpg?20180302202234"></img>
+<img width="512" alt="DGJ 4705 - Russian Matryoshka (4312413546)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DGJ_4705_-_Russian_Matryoshka_%284312413546%29.jpg/512px-DGJ_4705_-_Russian_Matryoshka_%284312413546%29.jpg?20180302202234">
 
   <figcaption><i>Matryoshka Dolls by <a title="Dennis G. Jarvis
 , CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:DGJ_4705_-_Russian_Matryoshka_(4312413546).jpg">Dennis G. Jarvis, via Wikimedia Commons</a></i></figcaption>

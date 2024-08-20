@@ -12,7 +12,7 @@ description: "An indie game dev in the Potteries."
 url: "https://potbanksoftware.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 # author:
-logo: assets/images/logo512.png # PNG is SEO friendly
+logo: assets/images/logo256.png
 # use below when there are social links for site
 social:
  name: potbanksoftware
@@ -130,5 +130,5 @@ defaults:
       path: ""
     values:
       # for SEO and social sharing
-      image: assets/images/logo512.png
+      image: assets/images/logo256.png
       image_alt: Potbank Software Logo
