@@ -2,7 +2,7 @@
 layout: post
 title:  "Game Maker's Toolkit Game Jam August 2024"
 # excerpt: "A test of the blog."
-date: 2024-08-19 11:07:50 +0100
+date: 2024-08-20 08:00:00 +0100
 categories: game-jam
 author: Dominic Davis-Foster
 
@@ -17,7 +17,24 @@ Two game jams in two months. Following [last month's Pirate Software Game Jam](/
 I decided to enter this month's [Game Maker's Toolkit Game Jam](https://itch.io/jam/gmtk-2024) too.
 The theme was "Built to Scale". "It's up to you how you interpret the theme. While the idea is to make games about size, scale, and dimensions, you could make a game about weighing scales, scaling a building, fish scales, musical scales, or whatever!"
 
-I'd already seen the [fox pixel art by Elthen on itch.io](https://elthen.itch.io/2d-pixel-art-fox-sprites) and wanted to make a game with it in the future.
+My original idea was a fighting game like Mortal Kombat but with Matryoshka nesting dolls.
+As your health degrades the wooden shell cracks, and eventually shatters open.
+But wait! There's another doll inside. You're not out of the fight yet. 
+You're on the back foot though as each doll is progressively smaller.
+
+ <figure>
+<img width="512" alt="DGJ 4705 - Russian Matryoshka (4312413546)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DGJ_4705_-_Russian_Matryoshka_%284312413546%29.jpg/512px-DGJ_4705_-_Russian_Matryoshka_%284312413546%29.jpg?20180302202234"></img>
+
+  <figcaption><i>Matryoshka Dolls by <a title="Dennis G. Jarvis
+, CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:DGJ_4705_-_Russian_Matryoshka_(4312413546).jpg">Dennis G. Jarvis, via Wikimedia Commons</a></i></figcaption>
+</figure> 
+
+I put together a prototype, but the control scheme (there's a ragdoll underneath the static sprite) wasn't very easy to control with AI.
+It needs to fling itself at your doll, then reset back to a neutral position and try to dodge attacks.
+I've parked the game for now and might revisit it in the future.
+I think it'll work much better as a 2 player game.
+
+Looking for an alternative idea 2 hours in, I remembered the [fox pixel art by Elthen on itch.io](https://elthen.itch.io/2d-pixel-art-fox-sprites) I'd seen before, and thought would be cool to make a game with in the future.
 I settled on the idea of having animals of different sizes (the fox, a squirrel and a bear), each with unique attributes.
 The squirrel can climb trees but can't jump as high. The bear became a deer, which can jump very high to cross fences.
 
