@@ -2,7 +2,7 @@
 layout: post
 title: "Common Game Jam Pitfalls To Avoid"
 date: 2025-08-11 21:27:00 +0100
-last_updated: 2025-08-28 11:48:00 +0100
+last_updated: 2026-08-19 14:32:00 +0100
 categories: game-jam
 tags: game game-jam
 author: domdfcoding
@@ -101,4 +101,28 @@ so some people might not be able to run your game.
 The official Godot builds target glibc 3.28, and Steam now requires glibc 3.31.
 These are old enough to cover almost all still supported distros, as far back as Ubuntu 20.04.
 
-For building Godot and extensions to support older glibc versions, look at https://github.com/godotengine/buildroot.
+For building Godot and extensions to support older glibc versions, look at <https://github.com/godotengine/buildroot>.
+
+## Exporting only for ARM and noy x86
+
+Laptops with ARM CPUs are becoming increasingly popular,
+and while compatibility layers let them run software designed for x86 CPUs the reverse is not as common.
+Don't get caught out and export your game only for ARM, as many players won't be able to play it.
+
+When compiling for Linux (such as custom Godot engine builds, C extensions, or some game engines)
+it is important to bear in mind the version of glibc you're compiling against.
+Builds compiled against a newer version of glibc won't run on Linux distros using an older version,
+so some people might not be able to run your game.
+
+With Godot the option to select the architecture is found in the Export dialog, under the Options tab.
+By all means export for ARM as well but make sure to include an x86 build for the same platforms.
+Thankfully web exports don't care about the architecture, so make your game playable in the browser where possible!
+
+{% include captioned_figure.liquid
+  path="assets/img/game-jam-pitfalls/godot_export_architecture.png"
+  alt="Screenshot of Godot showing the export window and the Architecture dropdown."
+  caption='Screenshot of Godot showing the export window and the Architecture dropdown'
+  class="col-12 mt-3 mt-md-0"
+%}
+
+
