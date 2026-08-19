@@ -5,7 +5,7 @@ description: Released 3rd August 2025
 img: assets/img/gmtk-game-jam-2025-images/630x500_cover_image.png
 importance: 1
 category: [games]
-itch_url: https://potbanksoftware.itch.io/size-matters
+itch_url: https://potbanksoftware.itch.io/round-and-round
 og_image:
   image: /assets/img/gmtk-game-jam-2025-images/630x500_cover_image.png
 ---
