@@ -103,7 +103,7 @@ These are old enough to cover almost all still supported distros, as far back as
 
 For building Godot and extensions to support older glibc versions, look at <https://github.com/godotengine/buildroot>.
 
-## Exporting only for ARM and noy x86
+## Exporting only for ARM and not x86
 
 Laptops with ARM CPUs are becoming increasingly popular,
 and while compatibility layers let them run software designed for x86 CPUs the reverse is not as common.

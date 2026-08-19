@@ -141,7 +141,7 @@ I found it continuously engaging and never frustrating, just as a puzzle game sh
 <iframe src="https://itch.io/embed/3753819" width="552" height="167" frameborder="0"><a href="https://jzucc12.itch.io/please-hold">Please Hold by jzucc12, Lyrical, VirgilRavenback, awesomeflow</a></iframe>
 
 Please Hold is a short game reminiscent of Flash games from the early 2000s.
-The answers to thw questions put to you, you'll have to search the virtual desk.
+The answers to the questions put to you, you'll have to search the virtual desk.
 Maybe read your book of dreams or rummage in the fruit loops box.
 
 
