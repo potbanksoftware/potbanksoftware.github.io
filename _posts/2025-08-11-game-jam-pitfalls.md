@@ -126,3 +126,11 @@ Thankfully web exports don't care about the architecture, so make your game play
 %}
 
 
+## Make sure the game can run once itch installs it.
+
+The [itch.io app](https://itch.io/app) can install many common distribution formats, including zip files, Windows EXEs, and `.bin`. or `.x86_64` files for Linux.
+But it can't handle things like self-extracting archives.
+The best way to distribute your game is as a self-contained executable – make use of Godot's "Embed PCK" option – but if you can't a simple zip archive will do.
+After uploading take a few minutes to test your game in the itch.io app,
+and make sure it can be installed (including detecting the right file for your platform)
+and correctly launches.
