@@ -26,7 +26,7 @@ og_image:
   caption=mousetrap_caption
 %}
 
-Having entered four game jams and played over 100 game jam entries, I've noticed several mistakes developers (myself included) make.
+Having entered five game jams and played over 150 game jam entries, I've noticed several mistakes developers (myself included) make.
 I get that there's only limited time during the jam, but addressing these - which don't take long -
 can make the difference between a game not running or the player being so confused they move on, and the player playing and enjoying your game.
 That's the end goal, right?
