@@ -24,35 +24,16 @@ og_image:
 %}
 
 
-<style>
-table.fav-games-table td {
-  padding-top: 0.25rem;
-  padding-bottom: 0.25rem;
-}
+<link rel="stylesheet" href="{{ '/assets/css/fav_games_table.css' | relative_url | bust_css_cache }}">
 
-table.fav-games-table thead {
-  display: none;
-}
+<style>
+
+
 
 table.fav-games-table {
   min-height: 800px
 }
 
-.bootstrap-table table.fav-games-table thead {
-  display: revert;
-}
-
-.bootstrap-table table.fav-games-table {
-  min-height: 0;
-}
-
-h2.invisible, h3.invisible {
-  height: 0;
-}
-
-.bootstrap-table .fixed-table-container .table thead th .th-inner {
-  overflow: inherit;
-}
 
 .fav-games-table th  {
   height: 90px;
@@ -75,9 +56,6 @@ h2.invisible, h3.invisible {
   max-width: 315px;
 }
 
-.fav-games-table th div.fht-cell {
-  width: unset !important;
-}
 
 </style>
 

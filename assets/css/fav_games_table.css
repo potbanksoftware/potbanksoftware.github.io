@@ -1,0 +1,34 @@
+table.fav-games-table td {
+	padding-top: 0.25rem;
+	padding-bottom: 0.25rem;
+}
+
+table.fav-games-table thead {
+	display: none;
+}
+
+.bootstrap-table table.fav-games-table thead {
+	display: revert;
+}
+
+.bootstrap-table table.fav-games-table {
+	min-height: 0;
+}
+
+h2.invisible,
+h3.invisible {
+	height: 0;
+}
+
+.bootstrap-table .fixed-table-container .table thead th .th-inner {
+	overflow: inherit;
+}
+
+.fav-games-table th {
+	height: 50px;
+	white-space: nowrap;
+}
+
+.fav-games-table th div.fht-cell {
+	width: unset !important;
+}
