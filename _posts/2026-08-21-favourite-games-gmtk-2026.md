@@ -30,27 +30,20 @@ og_image:
 
 
 table.fav-games-table {
-  min-height: 680px
+  min-height: 680px;
+
+  .cat-col {
+    max-width: 45px;
+  }
+
+  .rank-col {
+    max-width: 75px;
+  }
+
+  .name-col {
+    max-width: 315px;
+  }
 }
-
-
-
-.fav-games-table .cat-col {
-  max-width: 45px;
-}
-
-.fav-games-table .rank-col {
-  max-width: 75px;
-}
-
-.fav-games-table .name-col {
-  max-width: 315px;
-}
-
-.fav-games-table th div.fht-cell {
-  width: unset !important;
-}
-
 </style>
 
 After the [GMTK Game Jam 2026](https://itch.io/jam/gmtk-jam-2026/entries) I played and rated 50 games, and tried several more games but couldn't get them to launch. I filtered those down to 19 favourites, and here are my top 6.

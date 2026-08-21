@@ -28,34 +28,30 @@ og_image:
 
 <style>
 
-
-
 table.fav-games-table {
-  min-height: 800px
-}
+  min-height: 800px;
 
+  th  {
+    height: 90px !important;
+  
+    span.rot-header {
+      transform: translate(0, 0px) rotate(-45deg);
+      display: block;
+    }
+  }
 
-.fav-games-table th  {
-  height: 90px;
-  white-space: nowrap;
-}
-.fav-games-table th span.rot-header {
-  transform: translate(0, 0px) rotate(-45deg);
-  display: block;
-}
+  .cat-col {
+    max-width: 45px;
+  }
 
-.fav-games-table .cat-col {
-  max-width: 45px;
-}
+  .rank-col {
+    max-width: 75px;
+  }
 
-.fav-games-table .rank-col {
-  max-width: 75px;
+  .name-col {
+    max-width: 315px;
+  }
 }
-
-.fav-games-table .name-col {
-  max-width: 315px;
-}
-
 
 </style>
 
