@@ -196,15 +196,7 @@ Four games instead had something else decreasing, such as [a number of moves](ht
 Surprisingly, only [one](https://flymedusa.itch.io/nightbitten) of these games featured a Vampire Count or similar.
 
 <script>
-
 var bootstrap_table = document.querySelector(".fav-games-table");
-
-function NameURLFormatter(value, row, index, field) {
-  console.log(value);
-  console.log(row);
-  console.log(field);
-  return `<a href="${row.url}">${value}</a>`;
-  return '<a href="' + row.url + '">"' + value + '</a>';
-}
-
 </script>
+
+<script src="{{ '/assets/js/jam_name_url_formatter.js' | relative_url }}"></script>
