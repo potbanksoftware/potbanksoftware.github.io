@@ -65,7 +65,7 @@ The game automatically saves your progress, so you can keep returning and play s
 
 Resonance is a small puzzle game where doors, spike traps, etc. are all on their own countdown clock. The challenge is putting the right timer onto the right object so the player can move through the map successfully.
 
-The puzzles are challenging but impossible. I'm sure this could be expanded into a larger game, and its simple controls mean it'd work well on phones. A web build would be nice too.
+The puzzles are challenging but possible. I'm sure this could be expanded into a larger game, and its simple controls mean it'd work well on phones. A web build would be nice too.
 
 My only suggestion, applicable to games like this in general, is that the clocks should stay on the objects they were placed on if you fail or reset the level. This lets the player remember the combination they just did, especially on the more complex levels where some clocks were inevitably in the right places that attempt.
 
