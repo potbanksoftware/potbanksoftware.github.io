@@ -88,7 +88,7 @@ Pawn Crusade is set after a game of chess has finished, as a lone pawn attempts 
 [path puzzles in Watch Dogs](https://www.youtube.com/watch?v=rJ_HE3FwvEw),
 Pawn Crusade is single-player and requires finding the right path between chess pieces, within the allowed number of moves.
 
-The game has 20 levels of increasing difficulty, although the web version  doesn't seem to solve your progress if you reload the page.
+The game has 20 levels of increasing difficulty, although the web version  doesn't seem to save your progress if you reload the page.
 
 
 <h3 class="invisible">Ten Fingers</h3>
